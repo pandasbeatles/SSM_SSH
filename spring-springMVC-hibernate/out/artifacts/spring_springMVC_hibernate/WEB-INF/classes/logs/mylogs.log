@@ -1,0 +1,4 @@
+2020-03-28 01:11:13[com.alibaba.druid.pool.DruidDataSource] [main:0] - [INFO]  {dataSource-1} inited
+2020-03-28 01:56:18[com.alibaba.druid.pool.DruidDataSource] [main:0] - [INFO]  {dataSource-1} inited
+2020-03-28 01:56:23[com.alibaba.druid.pool.DruidDataSource] [SpringContextShutdownHook:4385] - [INFO]  {dataSource-1} closing ...
+2020-03-28 01:56:23[com.alibaba.druid.pool.DruidDataSource] [SpringContextShutdownHook:4398] - [INFO]  {dataSource-1} closed

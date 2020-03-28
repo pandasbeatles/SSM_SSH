@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssh" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f5702b7-1f2a-484f-ba8f-a726d608dace" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\VersionControlSoftware\Maven\maven\Repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../VersionControlSoftware/Maven/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Software\VersionControlSoftware\Maven\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZOLOwecrqXabvZ7lmHfgTB40mc" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39010358" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\spring-springMVC-hibernate\src\main\resources" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\beatles\src\main\resources\orm" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\beatles\src\main\resources\springConfig" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\beatles\src\main\resources\properties" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\beatles\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xiaochen.beatles" />
+      <recent name="com.beatles" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiaochen.beatles.controller" />
+      <recent name="com.beatles.service" />
+      <recent name="com.beatles.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\spring-springMVC-hibernate\src\test" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\spring-springMVC-hibernate\src\main" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\spring-springMVC-hibernate\src\main\resources\spring" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\spring-springMVC-hibernate\src\main\webapp\WEB-INF" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\spring-springMVC-hibernate\src\main\resources\properties" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9">
+    <configuration name="AutowiredBean.getbeans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-springMVC-hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaochen.beatles.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.AutowiredBean" />
+      <option name="METHOD_NAME" value="getbeans" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.getPojo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-springMVC-hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaochen.beatles.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.JunitTest" />
+      <option name="METHOD_NAME" value="getPojo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.getbeans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-springMVC-hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaochen.beatles.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.JunitTest" />
+      <option name="METHOD_NAME" value="getbeans" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.getPojo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-springMVC-hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaochen.beatles.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.SpringTest" />
+      <option name="METHOD_NAME" value="getPojo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.getbeans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-springMVC-hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaochen.beatles.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.SpringTest" />
+      <option name="METHOD_NAME" value="getbeans" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="ssh">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-springMVC-hibernate" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2090" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssh" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AutowiredBean.getbeans" />
+      <item itemvalue="JUnit.SpringTest.getbeans" />
+      <item itemvalue="JUnit.SpringTest.getPojo" />
+      <item itemvalue="JUnit.JunitTest.getPojo" />
+      <item itemvalue="JUnit.JunitTest.getbeans" />
+      <item itemvalue="Tomcat Server.Tomcat 9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutowiredBean.getbeans" />
+        <item itemvalue="JUnit.JunitTest.getbeans" />
+        <item itemvalue="JUnit.JunitTest.getPojo" />
+        <item itemvalue="JUnit.SpringTest.getPojo" />
+        <item itemvalue="JUnit.SpringTest.getbeans" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.045143638" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+    <option name="showInfrastructureBeans" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f5702b7-1f2a-484f-ba8f-a726d608dace" name="Default Changelist" comment="" />
+      <created>1584705165470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584705165470</updated>
+      <workItem from="1584705171351" duration="11238000" />
+      <workItem from="1584758368131" duration="1272000" />
+      <workItem from="1584759703998" duration="9116000" />
+      <workItem from="1584782085940" duration="266000" />
+      <workItem from="1585059094081" duration="621000" />
+      <workItem from="1585200277860" duration="3861000" />
+      <workItem from="1585216674204" duration="13000" />
+      <workItem from="1585217114338" duration="1195000" />
+      <workItem from="1585221397354" duration="9022000" />
+      <workItem from="1585300810816" duration="1897000" />
+      <workItem from="1585303858572" duration="191000" />
+      <workItem from="1585322302854" duration="2417000" />
+      <workItem from="1585325482680" duration="4339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="74" key="#Notifications" timestamp="1584758411907">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="360" y="74" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1584758411907" />
+    <state x="358" y="19" key="#Project_Structure" timestamp="1585332350315">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="358" y="19" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1585332350315" />
+    <state x="471" y="147" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1585230387582">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="471" y="147" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.834@0.0.1536.834" timestamp="1585230387582" />
+    <state x="222" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585332352486">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="222" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1585332352486" />
+    <state x="573" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1584777579288">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1584777579288" />
+    <state x="540" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585214267009">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="540" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1585214267009" />
+    <state x="539" y="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585214268397">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="539" y="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834@0.0.1536.834" timestamp="1585214268397" />
+    <state x="498" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585324943117">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1585324943117" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1585332181001">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1585332181001" />
+    <state width="1395" height="665" key="GridCell.Tab.0.bottom" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.0.center" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.0.left" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.0.right" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.1.bottom" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.1.center" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.1.left" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.1.right" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.2.bottom" timestamp="1585332985261">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585332985261" />
+    <state width="1395" height="665" key="GridCell.Tab.2.center" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.2.left" timestamp="1585332985260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1585332985260" />
+    <state width="1395" height="665" key="GridCell.Tab.2.right" timestamp="1585332985261">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1395" height="665" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1585332985261" />
+    <state x="248" y="0" key="SettingsEditor" timestamp="1585332216693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="248" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1585332216693" />
+    <state x="368" y="94" width="800" height="646" key="find.popup" timestamp="1585224841335">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="368" y="94" width="800" height="646" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1585224841335" />
+    <state x="177" y="26" key="new project wizard" timestamp="1585231221307">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="177" y="26" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1585231221307" />
+    <state x="361" y="14" key="spring file set editor" timestamp="1585221731720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="14" key="spring file set editor/0.0.1536.834@0.0.1536.834" timestamp="1585221731720" />
+  </component>
+</project>
