@@ -1,11 +1,11 @@
-# S2SH
+# SSH框架,SSM框架整合
 
 #### 介绍
-(S2SH IDEA版整合)
+(SSH框架,SSM框架整合 IDEA版整合)
 
 #### 软件架构
 软件架构说明
-环境工具 Windows10+jdk1.8+Sturts2+Spring5+Hibernate6+Maven
+环境工具 Windows10+jdk1.8+Sturts2/springMVC+Spring5+Hibernate6/mybatis+Maven
 
 #### 安装教程
 
